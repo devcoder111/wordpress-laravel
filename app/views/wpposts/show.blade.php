@@ -1,0 +1,1 @@
+C:\xampp\htdocs\allgifted\app/views/wpposts/show.blade.php
